@@ -1,0 +1,9 @@
+c:\users\johnny.wuytack\documents\visual studio 2017\Projects\io_server\io_server\bin\Debug\netcoreapp1.1\io_server.deps.json
+c:\users\johnny.wuytack\documents\visual studio 2017\Projects\io_server\io_server\bin\Debug\netcoreapp1.1\io_server.runtimeconfig.json
+c:\users\johnny.wuytack\documents\visual studio 2017\Projects\io_server\io_server\bin\Debug\netcoreapp1.1\io_server.runtimeconfig.dev.json
+c:\users\johnny.wuytack\documents\visual studio 2017\Projects\io_server\io_server\obj\Debug\netcoreapp1.1\io_server.csprojResolveAssemblyReference.cache
+c:\users\johnny.wuytack\documents\visual studio 2017\Projects\io_server\io_server\obj\Debug\netcoreapp1.1\io_server.AssemblyInfo.cs
+c:\users\johnny.wuytack\documents\visual studio 2017\Projects\io_server\io_server\bin\Debug\netcoreapp1.1\io_server.dll
+c:\users\johnny.wuytack\documents\visual studio 2017\Projects\io_server\io_server\bin\Debug\netcoreapp1.1\io_server.pdb
+c:\users\johnny.wuytack\documents\visual studio 2017\Projects\io_server\io_server\obj\Debug\netcoreapp1.1\io_server.dll
+c:\users\johnny.wuytack\documents\visual studio 2017\Projects\io_server\io_server\obj\Debug\netcoreapp1.1\io_server.pdb
